@@ -2,6 +2,8 @@
 
 A simple Sudoku game for Android, built as a web app and wrapped with [Capacitor](https://capacitorjs.com/).
 
+**Download the app:** [`Sudoku.apk`](Sudoku.apk) in this repo (v1.0 debug build — install on any Android 7+ phone; you may need to allow "install from unknown sources").
+
 ## Play
 
 - **Easy / Medium / Hard** difficulties with generated puzzles (unique solutions)
